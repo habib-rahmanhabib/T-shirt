@@ -1,0 +1,8 @@
+.tshirt-component img {
+    height: 250px;
+}
+.tshirt-component{
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    padding: 10px;
+}
